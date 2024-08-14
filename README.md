@@ -26,9 +26,6 @@
 ###
 
 
-<div align="center">
-  <iframe src="https://open.spotify.com/embed/playlist/7CWpkBrzdQYlmWPAZS3wkH?si=a9sCo5QGSnaYROSadmVTeg&pi=a-FyKOUzbyTp6d" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-</div>
 
 
 ###
